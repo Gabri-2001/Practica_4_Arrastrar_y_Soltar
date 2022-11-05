@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fmArrastrarSoltar", "fmArrastrarSoltar.csproj", "{4911C5E2-AEB9-4B99-8795-6B7D31B79F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4911C5E2-AEB9-4B99-8795-6B7D31B79F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4911C5E2-AEB9-4B99-8795-6B7D31B79F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4911C5E2-AEB9-4B99-8795-6B7D31B79F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4911C5E2-AEB9-4B99-8795-6B7D31B79F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DA5672-DF63-4B3F-B9CE-20DE8E0D6816}
+	EndGlobalSection
+EndGlobal
